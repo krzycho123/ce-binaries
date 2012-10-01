@@ -1,0 +1,9 @@
+<root>
+        <locale>
+                <path>locale/en_US/admin_en_US_ResourceModule.swf</path>
+                <language>en_US</language>
+        </locale>
+        <upgradePage>http://corp.kaltura.com</upgradePage>
+        <upgradeUsersPage>http://corp.kaltura.com</upgradeUsersPage>
+        <upgradePartnerFeaturesPage>http://corp.kaltura.com</upgradePartnerFeaturesPage>
+</root>

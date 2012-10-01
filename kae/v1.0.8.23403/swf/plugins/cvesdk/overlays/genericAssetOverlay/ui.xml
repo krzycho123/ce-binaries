@@ -1,0 +1,23 @@
+<definition>
+	<version>1.00</version>
+	<type>xml</type>
+	<name>Asset Overlay</name>
+	
+	<UI>
+
+		<PlayerPanel>
+			<UIComponents>
+				<UIComponent type="ModuleLoader" id="ObjectHandlesUI">
+				
+					<url>swf/plugins/cvesdk/ui/ObjectHandlesUI.swf</url>
+					
+					<parameters>
+					</parameters>
+					
+					
+					
+				</UIComponent>		
+			</UIComponents>
+		</PlayerPanel>
+	</UI>
+</definition>

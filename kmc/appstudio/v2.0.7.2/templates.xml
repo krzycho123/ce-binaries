@@ -1,0 +1,14 @@
+<templates id="firstRevision">
+	<template id="1002056" isSinglePlaylist="false" isMultiPlaylistTemplate="false">
+		<Label>New test Player (Single Video)</Label>
+	</template>
+	<template id="1002100" isSinglePlaylist="true" isMultiPlaylistTemplate="false">
+		<Label>New test Player - Horizontal Playlist</Label>
+	</template>
+	<template id="1002103" isSinglePlaylist="true" isMultiPlaylistTemplate="false">
+		<Label>New test Player - Vertical Playlist</Label>
+	</template>
+	<template id="1002102" isSinglePlaylist="false" isMultiPlaylistTemplate="true">
+		<Label>New test Player - Multiple Playlist</Label>
+	</template>
+</templates>

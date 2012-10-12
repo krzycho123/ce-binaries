@@ -49,7 +49,7 @@ if( $conf['overwrite_entry'] ){
 		<title><?php echo $conf['title']; ?></title>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script src="js/jquery.time.stepper.js"></script>
 		<script src="js/clipApp.js"></script>
 		<script>

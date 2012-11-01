@@ -15,7 +15,7 @@ if( $configName == 'kmc' ) {
 	}
 
 	$config['kmc'] = array(
-		'host' => $_SERVER['HTTP_HOST'],
+		'host' => (isset($_GET['host'])) ? $_GET['host'] : $_SERVER['HTTP_HOST'],
 		'partner_id' => intval($_GET['partnerId']),
 		'user_id' => null,
 		'ks' => $_COOKIE['kmcks'],
